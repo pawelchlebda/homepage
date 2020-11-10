@@ -20,3 +20,7 @@ p {
 nav a{
     color: #57c9b2;
 }
+
+.box{
+    background: rgba(255.255.255.0.4);
+}
