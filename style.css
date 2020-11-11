@@ -1,26 +1,43 @@
 body {
-    background: lightgray;
+  background: lightgray;
 }
 h1 {
-    color: blue;
+  color: blue;
 }
 
 p {
-    color: grey;
+  color: grey;
 }
 
-.hotpink-header{
-    color:hotpink;
+.hotpink-header {
+  color: hotpink;
 }
 
-#top{
-    background: #026450;
+#top {
+  background: #026450;
 }
 
-nav a{
-    color: #57c9b2;
+nav a {
+  color: #57c9b2;
 }
 
-.box{
-    background: rgba(255.255.255.0.4);
+.box {
+  background: rgba(255.255.255.0.4);
+}
+
+.navigation {
+  background: #13a332;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.navigation__link {
+  color: #ffffff;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.navigation_link--homepage {
+  background: yellow;
+  color: #000;
 }
