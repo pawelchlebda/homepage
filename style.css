@@ -41,3 +41,13 @@ nav a {
   background: yellow;
   color: #000;
 }
+
+.main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer{
+  max-width: 1000px;
+  margin: 0 auto;
+}
